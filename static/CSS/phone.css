@@ -1,0 +1,23 @@
+body{
+    background-color: brown;
+}
+.navbar ul li a{
+    font-size: 5px;
+    padding: 0px 7px;
+    padding-bottom: 0%;
+}
+
+.navbar{
+    display: flex;
+    
+    gap: 10px;
+}
+
+.home{
+    height: 200px;
+    flex: 1;
+    padding: 20px;
+    background-color: blueviolet;
+    text-align: center;
+}
+
